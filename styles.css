@@ -3,12 +3,12 @@
 .moviePic{
 	height:300px;
 	width:300px;
-	opacity:0.9;
+	opacity:0.5;
 }
 .movieDetail{
 	position:absolute;
-	top:10px;
-	width:200px;
+	top:100px;
+	width:300px;
 	text-align:justify;
 	font-size:10px;
 }
